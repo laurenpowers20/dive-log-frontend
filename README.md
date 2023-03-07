@@ -2,6 +2,6 @@
 
 ## A full stack app to keep track of your dives.
 
-PADI sponsor me?
+## PADI sponsor me?
 
 ![](./src/images/diver.jpg)
