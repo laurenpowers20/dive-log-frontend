@@ -4,4 +4,4 @@
 
 PADI sponsor me?
 
-![](./src/images/diver.gif)
+![](./src/images/diver.jpg)
